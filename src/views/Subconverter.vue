@@ -235,7 +235,7 @@ export default {
               {
                 label: "1eof",
                 value:
-                  "https://cdn.jsdelivr.net/gh/1eof/sub-web@master/custom/1eof.ini"
+                  "https://raw.githubusercontent.com/1eof/sub-web/master/custom/1eof.ini"
               },             
               {
                 label: "Maying",
