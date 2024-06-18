@@ -233,6 +233,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "1eof",
+                value:
+                  "https://cdn.jsdelivr.net/gh/1eof/sub-web@master/custom/1eof.ini"
+              },             
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
