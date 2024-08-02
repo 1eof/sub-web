@@ -235,7 +235,7 @@ export default {
               {
                 label: "1eof",
                 value:
-                  "https://raw.githubusercontent.com/1eof/sub-web/master/custom/1eof.ini"
+                  "https://git.ly7ngf.top/1eof/proxy-rules/raw/branch/main/subconverter.ini"
               },             
               {
                 label: "Maying",
