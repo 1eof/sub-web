@@ -255,7 +255,7 @@ export default {
               {
                 label: "1eof",
                 value:
-                  "https://gist.githubusercontent.com/1eof/2f51d4c41e28199e4d2a8799049f055e/raw/087ea13cbc78757d6d51343ac9c7cba9afa32f85/subconverter.ini"
+                  "https://gist.githubusercontent.com/1eof/2f51d4c41e28199e4d2a8799049f055e/raw/c78d69ec7a5ede7c26642f5603abf950de553328/subconverter.ini"
               },             
               {
                 label: "Maying",
